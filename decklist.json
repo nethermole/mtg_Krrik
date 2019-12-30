@@ -101,5 +101,17 @@
         "Whip of Erebos",
         "Wurmcoil Engine",
         "Xiahou Dun, the One-Eyed"
-    ]
+    ],
+    "counts": {
+        "artifact": 22,
+        "creature": 22,
+        "enchantment": 10,
+        "instant": 7,
+        "land": 30,
+        "planeswalker": 3,
+        "sorcery": 10,
+        "notes": [
+            "+1 creature if you count Batterskull",
+        ]
+    }
 }
