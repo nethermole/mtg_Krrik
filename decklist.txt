@@ -1,0 +1,85 @@
+Commander: K'rrik, Son of Yawgmoth
+
+Ancient Tomb
+Arcane Signet
+Army of the Damned
+Batterskull
+Bojuka Bog
+Bolas's Citadel
+Buried Ruin
+Cabal Coffers
+Cabal Ritual
+Caress of Phyrexia
+Castle Locthwain
+Chancellor of the Dross
+Charcoal Diamond
+Chrome Mox
+Coffin Purge
+Coldsteel Heart
+Crypt Ghast
+Culling the Weak
+Dark Ritual
+Dauthi Voidwalker
+Deathgrip
+Demonic Tutor
+Disciple of Bolas
+Eternity Vessel
+Everglades
+Exquisite Blood
+Exsanguinate
+Feed the Swarm
+Feign Death
+Font of Agonies
+Gilded Lotus
+Graveborn Muse
+Gray Merchant of Asphodel
+Greed
+Grim Tutor
+Helldozer
+Jet Medallion
+Jeweled Lotus
+Kalitas, Traitor of Ghet
+Liliana Vess
+Liliana of the Dark Realms
+Liliana's Contract
+Lord of the Void
+Malakir Rebirth
+Mana Crypt
+Mana Vault
+Massacre Wurm
+Memorial to Folly
+Mind Twist
+Murderous Cut
+Myojin of Night's Reach
+Necrologia
+Nirkana Revenant
+Noxious Gearhulk
+Nykthos, Shrine to Nyx
+Nyx Lotus
+Oblivion Stone
+Phyrexian Obliterator
+Promise of Power
+Reanimate
+Sangromancer
+Sanguimancy
+Sheoldred, Whispering One
+Sheoldred, the Apocalypse
+Sign in Blood
+Sol Ring
+Sorin Markov
+Soul Conduit
+Star Compass
+Takenuma, Abandoned Mire
+The Elderspell
+The Haunt of Hightower
+Thran Dynamo
+Toxic Deluge
+Vampiric Tutor
+Venser's Journal
+Vilis, Broker of Blood
+Whip of Erebos
+Whispersilk Cloak
+Wurmcoil Engine
+Yawgmoth's Will
+
+Swamp: 18
